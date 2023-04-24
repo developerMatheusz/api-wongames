@@ -4,10 +4,11 @@
   "info": {
     "singularName": "publisher",
     "pluralName": "publishers",
-    "displayName": "Publisher"
+    "displayName": "Publisher",
+    "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
