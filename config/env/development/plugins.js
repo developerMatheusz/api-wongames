@@ -1,12 +1,12 @@
-module.exports = ({ env }) => ({
+module.exports = () => ({
   email: {
     config: {
-      provider: 'nodemailer',
+      provider: "nodemailer",
       providerOptions: {
-        host: '0.0.0.0',
+        host: "0.0.0.0",
         port: 1025,
-        ignoreTLS: true,
-      },
-    },
-  },
+        ignoreTLS: true
+      }
+    }
+  }
 });

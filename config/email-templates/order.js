@@ -23,5 +23,5 @@ const html = `
 module.exports = {
   subject,
   text,
-  html,
+  html
 };

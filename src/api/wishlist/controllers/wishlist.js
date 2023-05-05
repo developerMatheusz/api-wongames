@@ -1,9 +1,9 @@
-'use strict';
+"use strict";
 
 /**
  * wishlist controller
  */
 
-const { createCoreController } = require('@strapi/strapi').factories;
+const { createCoreController } = require("@strapi/strapi").factories;
 
-module.exports = createCoreController('api::wishlist.wishlist');
+module.exports = createCoreController("api::wishlist.wishlist");
