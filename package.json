@@ -9,7 +9,7 @@
     "build": "strapi build",
     "strapi": "strapi",
     "lint": "eslint src --max-warnings=0",
-    "prettier": "prettier --write ."
+    "format": "prettier --write ."
   },
   "devDependencies": {
     "eslint": "^8.39.0",

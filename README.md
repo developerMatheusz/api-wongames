@@ -1,42 +1,51 @@
-# API do ecommerce para vender jogos
+# Backend da Wongames em Strapi
 
-O projeto da Won Games tem como objetivo listar jogos que estão disponiveis para
-serem comprados ou baixados gratuitamente
+<img src="/public/image1.png" width="600px;" height="400px;" alt="Foto de perfil">
 
-### 📋 Pré-requisitos
+> Projeto Backend da Wongames em Strapi desenvolvido com a plataforma Headless CMS Strapi. Baseado no curso React Avançado feito pelo professor Willian Justen de Vasconcellos na plataforma Udemy.
 
-NodeJS versão 14.19.1 a 18.9.9 e npm versão 6.0.0 ou superior:
+## 💻 Pré-requisitos
 
-```
-https://nodejs.org/en
-```
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-### 🔧 Instalação
+- Você instalou a versão mais recente de `<NodeJS / NPM>`
+- Este projeto funciona em `<Windows / Linux / Mac>`.
 
-Comando para instalar as dependências do projeto:
+## 🚀 Instalando Backend da Wongames em Strapi
 
-```
-yarn install
-```
+Para instalar o Backend da Wongames em Strapi, siga estas etapas:
 
-Comando para executar o servidor Strapi:
+Linux, macOS e Windows:
 
 ```
-yarn run develop
+npm i
 ```
 
-## 🛠️ Construído com
+## ☕ Usando Backend da Wongames em Strapi
 
-- [Strapi](https://strapi.io) - CMS headless 100% JavaScript
-- [MySQL](https://www.mysql.com) - Sistema Gerenciador de Banco de Dados MySQL
-- [Stripe](https://stripe.com/br) - Infraestrutura de pagamentos pela internet
-- [ESLint](https://eslint.org) - Gerente de código de qualidade
-- [Prettier](https://prettier.io) - Usada para formatar código fonte
+Para usar Backend da Wongames em Strapi, siga estas etapas:
 
-## 📄 Licença
+```
+npm run develop
+```
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/developerMatheusz/api-wongames/blob/master/LICENSE.md) para detalhes.
+## 🤝 Colaboradores
 
----
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-Desenvolvido por [Matheus Zanela](https://github.com/developerMatheusz)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Minha foto de perfil">
+        <img src="/public/image1.png" width="100px;" alt="Foto do Matheus Zanela no GitHub"/><br>
+        <sub>
+          <b>Matheus Zanela</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
